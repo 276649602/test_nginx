@@ -1,1 +1,1 @@
-FROM nginx:v1.15.1
+FROM nginx:1.15.1
